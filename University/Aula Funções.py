@@ -168,4 +168,4 @@ def exercicio_7 (lista_num):
 # Retorna uma lista com os elementos em comum entre duas listas
 
 # exercicio_7([1, 2, 3, 4, 5, 10, 7])
-# Retorna True se estiver em ordem crescente e Fase se não
+# Retorna True se estiver em ordem crescente e False se não
