@@ -67,7 +67,8 @@ def one_line ():
     quadrados = [numeros[i] ** 2 for i in range(len(numeros))]
     print(quadrados)
 
-def list_methods ():
+def lista_metodos ():
+    
     # Append
     lista = []
     lista.append(1)
