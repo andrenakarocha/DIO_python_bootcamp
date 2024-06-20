@@ -5,7 +5,7 @@ def criando_dicionarios ():
     pessoa = dict(nome = 'Guilherme', idade = 28)
 
     # Atribuindo valores
-    pessoa['telef1one'] = '9999-1234'
+    pessoa['telefone'] = '9999-1234'
 
 def acessando_dados ():
     dados = {'nome': 'Guilherme', 'idade': 28, 'telefone': '9999-1234'}
